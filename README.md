@@ -29,17 +29,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
    cd evidencia-node-1
    ```
 
-2. Instala las dependencias necesarias utilizando **npm** o **yarn**:
-
-   Con **npm**:
+2. Instala las dependencias necesarias utilizando **npm**:
 
    ```bash
    npm install
    ```
 
 3. Una vez que las dependencias estén instaladas, inicia el servidor de desarrollo:
-
-   Con **npm**:
 
    ```bash
    npm run start:dev
